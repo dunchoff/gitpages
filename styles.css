@@ -1,0 +1,33 @@
+.logo{
+    width: 255px;
+    height: 55px;
+}
+
+
+.nav-link{
+    color: black;
+}
+
+.card{
+    width: 25rem
+    !important;
+    margin: 0 auto;
+}
+
+
+.card-body{
+    margin: 0 auto;
+}
+
+
+ 
+
+.mar{
+    margin: 20px 15px
+    !important;
+}
+
+.nav1{
+    margin: 50px 0px;
+    width: 100%;
+}
